@@ -1,4 +1,4 @@
-package com.nydeaplus.dresco.controllers;
+package com.nydeaplus.dresco.web.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
